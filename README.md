@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/mateuscs96">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscs96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscs96&show_icons=true&theme=radicalt&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscs96&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
@@ -20,6 +20,7 @@
 
   <a href="https://instagram.com/mateuscs96" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mateuscs96@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mateuscs96@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+ target="_blank"></a>
 
 </div>
